@@ -1,4 +1,5 @@
 ollama/ollama
+neo4j
 mintplexlabs/anythingllm
 nginx
 #支持私库
